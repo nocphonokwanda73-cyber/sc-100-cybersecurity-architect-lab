@@ -7,6 +7,7 @@ All labs were completed in a training environment with a fictional company. Tena
 ## Labs
 
 - [ISO 27001 Compliance Assessment with Microsoft Purview Compliance Manager](iso27001-compliance-assessment.md)
+ - [Data Classification Framework with Microsoft Purview](data-classification-framework.md)
 
 ## Skills shown
 
@@ -14,5 +15,7 @@ All labs were completed in a training environment with a fictional company. Tena
 - Assigning improvement actions to owners
 - Granting least-privilege access to an assessment
 - Documenting security work clearly, with evidence
+- Creating a custom sensitive info type and retention label
+- Auto-applying labels with a policy
 
 
