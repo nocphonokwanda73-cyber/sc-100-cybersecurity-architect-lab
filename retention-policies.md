@@ -66,7 +66,7 @@ Then created the auto-labeling policy **Automatically retain all German financia
 
 **Screenshot 5:** Review and finish page for the auto-labeling policy
 
-![Screenshot 5: Auto-apply policy review](retention-policies-5-auto-apply-review.png)
+![Screenshot 5: Auto-apply policy review](retention-policies-5-auto-apply-review.png.png)
 
 ## Notes
 - **The lab contradicts itself.** The scenario requires 11 years for financial documents, but the lab steps create the label with 10. I followed the lab as written; in a real deployment I would set 11 years.
