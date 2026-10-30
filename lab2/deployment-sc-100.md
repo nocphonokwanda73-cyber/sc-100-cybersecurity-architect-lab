@@ -16,7 +16,7 @@ I created a new resource group named `rg_eastus_soc` and a Log Analytics workspa
 
 **Deployment complete (resource group `rg_eastus_soc`):**
 
-![Task 1 - Deployment complete](images/1b-deployment-complete.png)
+![Task 1b - Deployment complete](images/1b-deployment-complete.png)
 
 ---
 
@@ -44,11 +44,11 @@ Both roles were assigned at the `rg_eastus_soc` resource group scope.
 
 **Responder role assigned to the SOC Analysts group (Review + assign):**
 
-![Task 3a - Responder to SOC Analysts](images/3b-responder-soc-analysts-review.png)
+![Task 3b - Responder to SOC Analysts](images/3b-responder-soc-analysts-review.png)
 
 **Contributor role assigned to the SOC Engineers group (assignment confirmation):**
 
-![Task 3b - Contributor to SOC Engineers](images/3c-contributor-soc-engineers-added.png)
+![Task 3c - Contributor to SOC Engineers](images/3c-contributor-soc-engineers-added.png)
 
 ---
 
@@ -67,7 +67,7 @@ This task is informational because the new workspace has no data. I started buil
 
 ![Task 4b - All parameters](images/4b-workbook-all-parameters.png)
 
-**Problems I ruin to:**
+**Notes:**
 - The Defender portal's workbook editor did not show the **Add query** option, so I reviewed the incident and alert queries and the steps rather than building them.
 - Steps that need data (Run Query, Column Settings, selecting an incident) were skipped, as the lab instructs, because the workspace has no data.
 
